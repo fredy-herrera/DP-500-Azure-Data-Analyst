@@ -1,0 +1,1 @@
+{"version":"0.1","connections":[{"details":{"protocol":"tds","address":{"server":"synapsewsbw7iqef.sql.azuresynapse.net","database":"sqldw"}},"storageMode":"DirectQuery"}]}
